@@ -216,8 +216,7 @@ main div div div p {
     }
 
     .a-img-tamaño {
-        object-fit: cover;
-        height: 36rem;
+        height: 34rem;
         width: 35rem;
     }
 
