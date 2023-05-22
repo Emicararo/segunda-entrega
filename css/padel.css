@@ -160,7 +160,7 @@ main div div div p {
 
 @media screen and (min-width:600px) {
 
-    .img-tamaño {
+    .a-img-tamaño {
         object-fit: cover;
         height: 25rem;
         width: 30rem;
@@ -215,7 +215,7 @@ main div div div p {
         display: block;
     }
 
-    .img-tamaño {
+    .a-img-tamaño {
         height: 40rem;
         width: 35rem;
     }
