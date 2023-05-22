@@ -380,7 +380,7 @@ main div div div p {
 
 .noti-img-lebron {
     margin: 1rem 1rem 1rem;
-    width: 23rem;
+    width: 20rem;
     height: 15rem;
 }
 
@@ -403,7 +403,7 @@ main div div div p {
 
 .noti-img-stupa {
     margin: 1rem 1rem 1rem;
-    width: 23rem;
+    width: 20rem;
     height: 15rem;
 
 }
@@ -426,7 +426,7 @@ main div div div p {
 
 .noti-img-sanyo {
     margin: 1rem 1rem 1rem;
-    width: 23rem;
+    width: 20rem;
     height: 15rem;
 
 }
@@ -441,6 +441,7 @@ main div div div p {
     grid-template-rows: 1fr;
     color: whitesmoke;
     text-align: center;
+    padding: 1rem;
 }
 
 .torneos div {
@@ -449,7 +450,7 @@ main div div div p {
 }
 
 .torneos-video {
-    width: 23rem;
+    width: 20rem;
     height: 15rem;
 }
 
