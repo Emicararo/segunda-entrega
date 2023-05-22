@@ -148,11 +148,12 @@ main div div div p {
     display: none;
 }
 
-.img-tamaño {
-    height: 15rem;
-    width: 15rem;
-}
 
+.a-img-tamaño{
+    padding: 1.5rem;
+    height: 13rem;
+    width: 10rem;
+}
 
 
 /* TABLET */
